@@ -1,8 +1,28 @@
 {
   "name": "mv-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Material Design icons packaged as inline SVG in single file Vue components",
   "homepage": "https://github.com/Addvilz/mv-icons",
   "author": "Matiss Treinis <mrtreinis@gmail.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "files": [
+    "/action",
+    "/alert",
+    "/av",
+    "/communication",
+    "/content",
+    "/device",
+    "/editor",
+    "/file",
+    "/hardware",
+    "/image",
+    "/maps",
+    "/navigation",
+    "/notification",
+    "/places",
+    "/social",
+    "/toggle",
+    "/LICENSE",
+    "/README.md"
+  ]
 }

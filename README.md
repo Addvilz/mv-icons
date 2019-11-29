@@ -5,7 +5,7 @@ Material-Vue icons (mv-icons)
 [![NPM](http://img.shields.io/npm/v/mv-icons.svg?style=flat-square)](https://www.npmjs.com/package/mv-icons)
 [![Apache-2.0](http://img.shields.io/npm/l/mv-icons.svg?style=flat-square)](https://github.com/Addvilz/mv-icons/)
 
-Production material icon SVG's sourced from [google/material-design-icons](https://github.com/google/material-design-icons).
+Production material icon SVGs sourced from [google/material-design-icons](https://github.com/google/material-design-icons).
 
 #### Components
 
